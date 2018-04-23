@@ -1,6 +1,22 @@
 {
-  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
+    "virtualNetworkName": {
+      "value": "Demo-Vnet"
+    },
+
+    "addressPrefix": {
+      "value": "10.7.0.0/16"
+    },
+    "subnet1Name": {
+      "value": "Default"
+    },
+    "subnet1Prefix": {
+      "value": "10.7.0.0/24"
+    }
   }
+
+
+
 }
