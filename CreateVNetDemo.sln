@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "CreateVNetDemo", "CreateVNetDemo\CreateVNetDemo.deployproj", "{2A1D294C-12FA-4B50-A6C8-B85DF9BB725E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1D294C-12FA-4B50-A6C8-B85DF9BB725E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1D294C-12FA-4B50-A6C8-B85DF9BB725E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1D294C-12FA-4B50-A6C8-B85DF9BB725E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1D294C-12FA-4B50-A6C8-B85DF9BB725E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD86EE6B-96E2-4EC3-89C6-6F436EB9003E}
+	EndGlobalSection
+EndGlobal
